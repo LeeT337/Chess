@@ -6,4 +6,4 @@ Castling,
 Restart game,
 Go back a move,
 Store game,
-Puzzles,
+Puzzles
